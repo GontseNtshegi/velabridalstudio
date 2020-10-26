@@ -1,3 +1,6 @@
 [submodule "themes/themefisher"]
 	path = themes/themefisher
 	url = https://github.com/themefisher/persian-hugo.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
